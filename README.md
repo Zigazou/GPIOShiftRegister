@@ -11,4 +11,4 @@ low version as GHC 7.6.
 An example is given in the example directory with an image of how to wire a
 74HC595 chipset on a breadboard.
 
-![How to wire the 74HC595 on a breadboard](example/74HC595.png)
+![How to wire the 74HC595 on a breadboard](example/74HC595RPI.png)
